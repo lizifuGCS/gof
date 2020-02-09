@@ -2,7 +2,7 @@ package com.hand.hcf.app.gof.FactoryMethod;
 
 /**
  * @Description
- * @Author zifu.li@hand-china.com
+ * @Author zifu.li
  * @Date 2020/2/9 16:20
  * @Version 1.0
  */
